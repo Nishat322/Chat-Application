@@ -1,4 +1,4 @@
-#Chat Application 
+# Chat Application 
 
 ## Purpose
 This app is for educational purposes. It was created following the tutorial on the youtube video linked below. 
